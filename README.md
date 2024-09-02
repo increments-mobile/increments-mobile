@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @increments-mobile
-- 👀 I’m interested in Java, Kotlin, Dart, Swift, Flutter, React Native
-Welcome to Increments Inc.
+- 👀 I’m interested in Java, Kotlin, Dart, Swift, Flutter, React Native.
 
 Increments Inc. is Bangladesh's leading mobile app development agency. Since 2016, we have been empowering businesses through innovative, automated software solutions. Our services span various industries including healthcare, finance, education, and energy.
 ## 🛠️ **Languages & Tools:**
