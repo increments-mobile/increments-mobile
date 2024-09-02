@@ -18,7 +18,7 @@ Increments Inc. is Bangladesh's leading mobile app development agency. Since 201
 
 
 <p align="left">
-  <a href="https://www.facebook.com/increments.inc/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://bd.linkedin.com/company/increments-inc" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mobiles@increments.net?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/increments.inc/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://bd.linkedin.com/company/increments-inc" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mobiles@increments.net?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
