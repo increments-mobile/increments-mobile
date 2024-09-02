@@ -6,6 +6,7 @@ Increments Inc. is Bangladesh's leading mobile app development agency. Since 201
 ## 🛠️ **Languages & Tools:**
 
 ![DART](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
+![JAVA](https://img.shields.io/badge/Java-Language-blue?logo=java)
 <!---
 increments-mobile/increments-mobile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
