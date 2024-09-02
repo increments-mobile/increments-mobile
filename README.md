@@ -14,3 +14,6 @@ Increments Inc. is Bangladesh's leading mobile app development agency. Since 201
 ## 🌐 **Reach out to me:** ️
 
 [<img src="https://img.shields.io/badge/LinkedIn-increments-inc-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
+
+
+[linkedin]: https://bd.linkedin.com/company/increments-inc
